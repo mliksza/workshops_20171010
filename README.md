@@ -3,4 +3,4 @@
 IMDb data analysis.
 IMDb Dataset Details: http://www.imdb.com/interfaces/
 
-Additionally, shiny app with movie ratings adn votes. 
+Additionally, shiny app with movie ratings and votes. 
